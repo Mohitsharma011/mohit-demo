@@ -4,4 +4,4 @@ https://github.com/Mohitsharma011/MySQL-Powerbi
 **Excel Dashboards** =
 https://github.com/Mohitsharma011/Excel-Dashboard-project
 
-**Power bi Projects** =
+**Power bi Projects** = https://github.com/Mohitsharma011/Power-bi-Project-
